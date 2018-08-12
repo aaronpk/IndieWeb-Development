@@ -10,11 +10,13 @@ A Guide to IndieWeb Development
    :maxdepth: 2
    :caption: Contents:
 
+   getting_started
+   creating_a_profile
+   webmention/index
 
 
 Table of Contents
 =================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
